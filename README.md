@@ -2,4 +2,5 @@
 
 
 ## Implementation<br />
-Feel free to use and cite, if it is helpful
+Call main to train the cGCN.
+Feel free to use and cite, if it is helpful.
